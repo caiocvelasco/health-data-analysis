@@ -10,4 +10,4 @@ Please check this project @ [GitHub page](https://caiocvelasco.github.io/) or @ 
 
 ### Problem Definition
 
-A hospital would like to understand some important cardio-related descriptive statistics characteristics from their patients.
+A client would like to understand some important patients' cardio-related descriptive statistics.
